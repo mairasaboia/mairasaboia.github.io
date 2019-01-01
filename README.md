@@ -4,11 +4,14 @@ Proposed methods to perform autonomous construction in irregular terrain and des
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PXaKOsIyeo8?start=11" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ### Multi-Robot and Multi-Material (Rigid and Compliante)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xAjEsM_ePN4?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Single Robot and Amourph/Compliate Material
+
+### Single Robot and Amorphous/Compliate Material
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7tjbrfLna8A?start=11" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
