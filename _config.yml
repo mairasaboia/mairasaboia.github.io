@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: Maira Saboia
 logo: beaver-robot-hi.jpg
+# Short bio or description (displayed in the header)
+description: Web Developer from Somewhere
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -18,3 +20,19 @@ social:
   name                   : Linkedin # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://www.linkedin.com/in/ma%C3%ADra-saboia-2492ba13/"
+    
+    # Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: 
+  instagram:
+  linkedin: https://www.linkedin.com/in/ma%C3%ADra-saboia-2492ba13/
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googlescholar: https://scholar.google.com/citations?user=ED0FQloAAAAJ&hl=en # anything in your profile username that comes after plus.google.com/
