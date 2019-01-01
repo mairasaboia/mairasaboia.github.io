@@ -6,3 +6,15 @@ logo: beaver-robot-hi.jpg
 # Remove this parameter if you don't want an image in the navbar
 # avatar: "/img/avatar-icon.png"
 url-pretty: "mairasaboia.com"
+
+social:
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : Google Scholar # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=ED0FQloAAAAJ&hl=en"
+
+social:
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : Linkedin # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/ma%C3%ADra-saboia-2492ba13/"
