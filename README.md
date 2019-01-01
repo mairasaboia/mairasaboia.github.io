@@ -1,3 +1,6 @@
+# About me…
+I’m Maira Saboia da Silva. I’m a Ph.D canditate at the Department of Computer Science and Engineering of the University at Buffalo, NY and a member of the Napp’s Robotics Lab. 
+
 In my dissertation, we have proposed methods to perform distributed autonomous construction in unstructured environments and have designed a heterogeneous robotic system that allows us to effectively evaluate these methods at a physical implementation level. In our application, the robots were tasked to change the environment, through deposition of irregular/deformable building material,  to turn non-navigable areas into navigable ones, allowing robots to reach otherwise inaccessible regions. This work was a finalist for the Best Systems Paper Award at the 2018 Robotics Conference: Science and Systems (RSS). My research contribution is to design construction models that can be mapped correctly to physical implementations and to leverage autonomous construction systems to operate in highly irregular environments.
 
 
