@@ -1,14 +1,17 @@
 theme: jekyll-theme-minimal
 name: "Maira Saboia"
 title: Maira Saboia
-logo: beaver-robot-hi.jpg
+
 # Short bio or description (displayed in the header)
-description: PhD Candidate, Computer Science, University at Buffalo
+description: PhD Candidate, Computer Science and Engineering, University at Buffalo
+logo: beaver-robot-hi.jpg
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 # avatar: "/img/avatar-icon.png"
 url-pretty: "mairasaboia.com"
+[googlescholar](https://scholar.google.com/citations?user=ED0FQloAAAAJ&hl=en # anything in your profile username that comes after plus.google.com/)
+
 
     
     # Includes an icon in the footer for each username you enter
@@ -25,4 +28,4 @@ footer-links:
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googlescholar: https://scholar.google.com/citations?user=ED0FQloAAAAJ&hl=en # anything in your profile username that comes after plus.google.com/
+#   googlescholar: https://scholar.google.com/citations?user=ED0FQloAAAAJ&hl=en # anything in your profile username that comes after plus.google.com/
