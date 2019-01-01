@@ -1,3 +1,8 @@
+In my dissertation, we have proposed methods to perform distributed autonomous construction in unstructured environments and have designed a heterogeneous robotic system that allows us to effectively evaluate these methods at a physical implementation level. In our application, the robots were tasked to change the environment, through deposition of irregular/deformable building material,  to turn non-navigable areas into navigable ones, allowing robots to reach otherwise inaccessible regions. This work was a finalist for the Best Systems Paper Award at the 2018 Robotics Conference: Science and Systems (RSS). My research contribution is to design construction models that can be mapped correctly to physical implementations and to leverage autonomous construction systems to operate in highly irregular environments.
+
+
+I would be very interested in working as a postdoctoral researcher in your research group.  I am interested in autonomous systems and I believe that my experience in developing theoretical frameworks, high-level system designs and working with system implementations would be of great value to your team.
+
 # Adaptive Autonomous Modification of Unstructured Environments
 
 Proposed methods to perform autonomous construction in irregular terrain and designed a heterogeneous robotic system that allows effective evaluation of these methods at a physical implementation level. The heterogeneous robotic team is composed of two autonomous robots that are able to manipulate material of different physical properties (rigid and amorphous materials)
