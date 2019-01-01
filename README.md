@@ -1,5 +1,5 @@
 # Adaptive Autonomous Modification of Unstructured Environments
-
+\n---\n
 Proposed methods to perform autonomous construction in irregular terrain and designed a heterogeneous robotic system that allows effective evaluation of these methods at a physical implementation level. The heterogeneous robotic team is composed of two autonomous robots that are able to manipulate material of different physical properties (rigid and amorphous materials)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PXaKOsIyeo8?start=11" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,6 +14,7 @@ Proposed methods to perform autonomous construction in irregular terrain and des
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7tjbrfLna8A?start=11" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+\n
 
 # News
 **WKBW TV | Buffalo, NY**
