@@ -7,3 +7,5 @@
   <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
 {% endfor %}
 </h3>
+
+- Saboia, M., Thangavelu, V. and Napp, N., Autonomous Multi-Material Construction with a Heterogeneous Robot Team. 2018
