@@ -1,5 +1,6 @@
 <h3 class="masthead-title">
-<a href="/" title="Home">{{ site.title }}</a>
+<!-- <a href="/" title="Home">{{ site.title }}</a> -->
+<a href="/" title="Home">Home</a>
 
 {% for page in site.pages_list %}
   &nbsp;&nbsp;&nbsp;
