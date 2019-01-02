@@ -1,7 +1,9 @@
 
 <h3 class="masthead-title">
-<a href="/" title="Home"></a>
+<a href="/" title="Home">Home</a>
+<!-- <a href="/" title="HOME - HTML Code Tutorials">Click to visit home page.</a> -->
 
+Read more: https://html.com/attributes/a-title/#ixzz5bQZm0Ndk
 {% for page in site.pages_list %}
   &nbsp;&nbsp;&nbsp;
   <a href="{{ page[1]  }}">{{ page[0] }}</a>
