@@ -9,7 +9,7 @@
 {% endfor %}
 </h3>
 
-# Adaptive Autonomous Modification of Unstructured Environments
+## Adaptive Autonomous Modification of Unstructured Environments
 
 Proposed methods to perform autonomous construction in irregular terrain and designed a heterogeneous robotic system that allows effective evaluation of these methods at a physical implementation level. The heterogeneous robotic team is composed of two autonomous robots that are able to manipulate material of different physical properties (rigid and amorphous materials)
 
