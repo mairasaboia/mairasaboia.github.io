@@ -1,9 +1,3 @@
-
----
-layout: page
-title: News
----
-
 ## News
 
 **University at Buffalo | News Center**
