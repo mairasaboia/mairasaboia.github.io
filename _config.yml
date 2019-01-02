@@ -4,7 +4,7 @@ title: "Saboia da Silva, Maíra"
 # <link rel="canonical" href="http://www.pas.rochester.edu/~hbarbosa/">
 # <meta property="og:url" content="http://www.pas.rochester.edu/~hbarbosa/">
 
-email: mairasab@buffalo.edu
+# email: mairasab@buffalo.edu
 # [Curriculum Vitae](CV.pdf)
 # Short bio or description (displayed in the header)
 description: PhD Candidate, Computer Science and Engineering, University at Buffalo
@@ -20,6 +20,45 @@ pages_list:
   Research: '/research/research'
   Publications: '/publications/publications'
   News: '/news/news'
-  Spotlight Talks: '/talks/talks'
+#   Spotlight Talks: '/talks/talks'
+  
+  
+# Site Author
+author:
+  name             : "Your Sidebar Name"
+  avatar           : #"profile.png"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : #"academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : #"replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+  
+
 #   Feed: '/atom.xml' that comes after plus.google.com/
 
