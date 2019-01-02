@@ -1,5 +1,5 @@
 <h3 class="masthead-title">
-<a href="/" title="Home">{{ "Home" }}</a>
+<a href="/" title="Home">{{ site.title }}</a>
 
 {% for page in site.pages_list %}
   &nbsp;&nbsp;&nbsp;
