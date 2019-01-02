@@ -19,3 +19,8 @@ In my dissertation, we have proposed methods to perform distributed autonomous c
 
 My research interests are in autonomous systems, bio-inspired robotics, robotic-vision, multi-robot systems, distributed robotics systems, autonomous construction, navigation. I have experience in developing theoretical frameworks, high-level system designs and working with system implementations.
 
+### Awards and Honors
+- Finalis - Best Systems Paper Award at the Robotics Conference: Science and Systems (RSS), USA, 2018
+- PhD. Scholarship - Science without Borders - SwB/Laspau, USA, 2014-2018
+- M.S Scholarship - São Paulo Research Foundation – FAPESP, Brazil, 2009-2011
+- B.S Scholarship - National Council for Scientific and Technological Development – CNPQ, Brazil, 2006-2009
