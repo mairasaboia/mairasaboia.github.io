@@ -9,7 +9,7 @@ logo: profilepic.jpg
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 # avatar: "/img/avatar-icon.png"
-url-pretty: "mairasaboia.com"
+# url-pretty: "mairasaboia.com"
 # [googlescholar](https://scholar.google.com/citations?user=ED0FQloAAAAJ&hl=en # anything in your profile username that comes after plus.google.com/)
 
 pages_list:
