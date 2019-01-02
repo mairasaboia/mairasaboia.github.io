@@ -13,6 +13,6 @@ url-pretty: "mairasaboia.com"
 # [googlescholar](https://scholar.google.com/citations?user=ED0FQloAAAAJ&hl=en # anything in your profile username that comes after plus.google.com/)
 
 pages_list:       
-  News: '/news'
-#   Archive: '/archive'
+  News: '/news/news'
+  Publications: '/news'
 #   Feed: '/atom.xml' that comes after plus.google.com/
