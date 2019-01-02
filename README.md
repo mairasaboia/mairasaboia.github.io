@@ -4,7 +4,7 @@
 
 {% for page in site.pages_list %}
   &nbsp;&nbsp;&nbsp;
- <a href="{{ page[1]  }}">{{ page[0] }}</a>
+  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
 {% endfor %}
 </h3>
 
