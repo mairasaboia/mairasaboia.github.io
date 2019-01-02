@@ -12,9 +12,9 @@ logo: profilepic.jpg
 url-pretty: "mairasaboia.com"
 # [googlescholar](https://scholar.google.com/citations?user=ED0FQloAAAAJ&hl=en # anything in your profile username that comes after plus.google.com/)
 
-pages_list:       
+pages_list:
+  Research: '/research/research'
   Publications: '/publications/publications'
   News: '/news/news'
-  Research: '/research/research'
   Spotlight Talks: '/talks/talks'
 #   Feed: '/atom.xml' that comes after plus.google.com/
