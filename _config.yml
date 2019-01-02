@@ -24,59 +24,66 @@ pages_list:
 #   Feed: '/atom.xml' that comes after plus.google.com/
 
 
- <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      
-        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
-          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">Rochester, NY</span>
-        </li>
-
         <li>
           <a href="mailto:hbarbosa@pas.rochester.edu">
             <meta itemprop="email" content="hbarbosa@pas.rochester.edu" />
             <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
           </a>
         </li>
+
+#  <div class="author__urls-wrapper">
+#     <button class="btn btn--inverse">Follow</button>
+#     <ul class="author__urls social-icons">
+      
+#         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+#           <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">Rochester, NY</span>
+#         </li>
+
+#         <li>
+#           <a href="mailto:hbarbosa@pas.rochester.edu">
+#             <meta itemprop="email" content="hbarbosa@pas.rochester.edu" />
+#             <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+#           </a>
+#         </li>
       
       
-      <li>
-        <a href="https://scholar.google.com/citations?user=dsBgmWgAAAAJ" itemprop="sameAs">
-          <i class="ai ai-google-scholar" aria-hidden="true"></i> G. Scholar          
-        </a>
-      </li>
+#       <li>
+#         <a href="https://scholar.google.com/citations?user=dsBgmWgAAAAJ" itemprop="sameAs">
+#           <i class="ai ai-google-scholar" aria-hidden="true"></i> G. Scholar          
+#         </a>
+#       </li>
     
 
 
       
-        <li>
-          <a href="https://www.linkedin.com/in/serranohugo" itemprop="sameAs">
-            <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
-          </a>
-        </li>
+#         <li>
+#           <a href="https://www.linkedin.com/in/serranohugo" itemprop="sameAs">
+#             <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
+#           </a>
+#         </li>
 
 
       
 
       
-        <li>
-          <a href="https://github.com/hsbarbosa" itemprop="sameAs">
-            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
-          </a>
-        </li>
+#         <li>
+#           <a href="https://github.com/hsbarbosa" itemprop="sameAs">
+#             <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+#           </a>
+#         </li>
       
 
 
-      <!--
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
-      <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
--->
-    </ul>
-  </div>
-</div>
+#       <!--
+#   <li>
+#     <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+#       <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+#     </a>
+#   </li>
+# -->
+#     </ul>
+#   </div>
+# </div>
 
   
-  </div>
+#   </div>
