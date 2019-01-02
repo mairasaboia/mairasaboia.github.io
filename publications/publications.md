@@ -30,7 +30,9 @@
 - Liu, Y.,**Saboia, M.**, Schatz, K., Paul, M.J. and Napp, N., 2016. Biometric patterns in long-evans rats for automatic behavior analysis. Visual Observation and Analysis of Vertebrate and Insect Behavior, 2016, ICPR – Int. Conference on Pattern Recognition,pp.25-28 (ICPR 2016)
 
 ## Talks
-Dry Stacking Strategies for Autonomous Construction. The What without the How: Specifying Planning Problems in Robotics Workshop -  Robotics: Science and Systems (RSS), MIT, USA, 2017
+  Autonomous adaptive modification of unstructured environments. Women in Robotics IV Workshop at Robotics: Science and Systems (RSS), CMU, USA, 2018
+
+- Dry Stacking Strategies for Autonomous Construction. The What without the How: Specifying Planning Problems in Robotics Workshop -  Robotics: Science and Systems (RSS), MIT, USA, 2017
 
 ## Posters
 - Robotic System For Autonomous Construction Using Irregular found Objects - New England Manipulation Symposium (NEMS) Northeastern University, USA, 2017
