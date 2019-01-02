@@ -9,11 +9,11 @@
 {% endfor %}
 </h3>
 
-# Journal
+## Journals
 
 - Neves, R., Mello, C.A.B., **Saboia, M.** and Bezerra, B., 2009. Thresholding the courtesy amount of brazilian bank checks based on tsallis entropy. IEEE Latin America Transactions,7(6) 
 
-# Conference
+## Conferences
 
 - **Saboia, M.**, Thangavelu, V. and Napp, N., Autonomous Multi-Material Construction with a Heterogeneous Robot Team. Int. Symp. on Distributed Autonomous Robotic Systems (DARS 2018) 
 
@@ -25,8 +25,13 @@
 
 - Neves, R.F.P., Mello, C.A.B., **Saboia, M.** and Bezerra, B.L.D., 2008, June. A new technique to threshold the courtesy amount of Brazilian bank checks. In Systems, Signals and Image Processing, 2008. IWSSIP 2008. 15th International Conference on (pp. 93-96) (IWSSIP 2008)}
 
-# Workshop
+## Workshops
 
 - Liu, Y.,**Saboia, M.**, Schatz, K., Paul, M.J. and Napp, N., 2016. Biometric patterns in long-evans rats for automatic behavior analysis. Visual Observation and Analysis of Vertebrate and Insect Behavior, 2016, ICPR – Int. Conference on Pattern Recognition,pp.25-28 (ICPR 2016)
 
+## Talks
+Dry Stacking Strategies for Autonomous Construction. The What without the How: Specifying Planning Problems in Robotics Workshop -  Robotics: Science and Systems (RSS), MIT, USA, 2017
 
+## Posters
+- Robotic System For Autonomous Construction Using Irregular found Objects - New England Manipulation Symposium (NEMS) Northeastern University, USA, 2017
+    
