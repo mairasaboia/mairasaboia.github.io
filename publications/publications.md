@@ -14,12 +14,12 @@
 - Neves, R., Mello, C.A.B., **Saboia, M.** and Bezerra, B., 2009. Thresholding the courtesy amount of brazilian bank checks based on tsallis entropy. IEEE Latin America Transactions,7(6) 
 
 ## Conferences
--   
-- Liu, Y., **Saboia, M.**, Thangavelu, V., and Napp, N.,. Approximate Stability Analysis for Drystacked Structures. In 2019 IEEE International Conference on Robotics and Automation (pp. 1-9) (under review)
 
 - **Saboia, M.**, Thangavelu, V. and Napp, N., Autonomous Multi-Material Construction with a Heterogeneous Robot Team. Int. Symp. on Distributed Autonomous Robotic Systems (DARS 2018) 
 
 - **Saboia, M.**, Thangavelu, V., Gosrich, W. and Napp, N., 2018. Autonomous adaptive modification of unstructured environments. Robotics: Science and Systems (RSS 2018)
+
+- Liu, Y., **Saboia, M.**, Thangavelu, V., and Napp, N.,. Approximate Stability Analysis for Drystacked Structures. In 2019 IEEE International Conference on Robotics and Automation (pp. 1-9) (under review)
 
 - Thangavelu, V., Liu, Y., **Saboia, M.** and Napp, N., 2018, May. Dry Stacking for Automated Construction with Irregular Objects. In 2018 IEEE International Conference on Robotics and Automation (pp. 1-9) (ICRA 2018)
 
