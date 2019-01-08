@@ -14,6 +14,8 @@
 - Neves, R., Mello, C.A.B., **Saboia, M.** and Bezerra, B., 2009. Thresholding the courtesy amount of brazilian bank checks based on tsallis entropy. IEEE Latin America Transactions,7(6) 
 
 ## Conferences
+-   
+- Liu, Y., **Saboia, M.**, Thangavelu, V., and Napp, N.,. Approximate Stability Analysis for Drystacked Structures. In 2019 IEEE International Conference on Robotics and Automation (pp. 1-9) (under review)
 
 - **Saboia, M.**, Thangavelu, V. and Napp, N., Autonomous Multi-Material Construction with a Heterogeneous Robot Team. Int. Symp. on Distributed Autonomous Robotic Systems (DARS 2018) 
 
