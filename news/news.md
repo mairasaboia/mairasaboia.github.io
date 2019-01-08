@@ -11,7 +11,7 @@
 
 
 ## News
-Featured in [New Atlas](https://www.sciencedaily.com/releases/2018/06/180627160322.htm), [Mechanical Engineering magazine], [WKBW], [Science Daily], [Electronic Component News], [Tech Xplore], [Nanowerk], [Techsite], [Product Design & Development], [Laboratory Equipment], [Electronics Weekly] and [Futurity]
+Featured in [New Atlas], [Mechanical Engineering magazine], [WKBW], [Science Daily](https://www.sciencedaily.com/releases/2018/06/180627160322.htm), [Electronic Component News](https://www.ecnmag.com/news/2018/06/rough-terrain-no-problem-beaver-inspired-autonomous-robot), [Tech Xplore](https://www.google.com/url?q=https://techxplore.com/news/2018-06-rough-terrain-problem-beaver-inspired-autonomous.html&source=gmail&ust=1546997497555000&usg=AFQjCNFojqiVvNbDLOqtWiqJBVwLlOnGCw), [Nanowerk](https://www.nanowerk.com/news2/robotics/newsid=50547.php), [Techsite] (https://www.google.com/url?q=http://www.techsite.io/p/857234&source=gmail&ust=1546997497555000&usg=AFQjCNE8-S09x9onWrDtk9jruBJeHkam6g), [Product Design & Development](https://www.ecnmag.com/topics/product-design-and-development), [Laboratory Equipment](https://www.laboratoryequipment.com/news/2018/06/beaver-inspired-autonomous-robot-overcomes-rough-terrain), [Electronics Weekly](https://www.electronicsweekly.com/news/research-news/beaver-thinking-gets-robot-obstacles-2018-06/) and [Futurity](https://www.futurity.org/autonomous-robots-beavers-1797602-2/)
 
 
 **University at Buffalo | News Center**
