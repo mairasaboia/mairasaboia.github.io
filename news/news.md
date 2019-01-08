@@ -11,6 +11,8 @@
 
 
 ## News
+Featured in [New Atlas](https://www.sciencedaily.com/releases/2018/06/180627160322.htm), [Mechanical Engineering magazine], [WKBW], [Science Daily], [Electronic Component News], [Tech Xplore], [Nanowerk], [Techsite], [Product Design & Development], [Laboratory Equipment], [Electronics Weekly] and [Futurity]
+
 
 **University at Buffalo | News Center**
 Published on December 21, 2018
@@ -27,5 +29,5 @@ Published on June 27, 2018
 [Rough terrain? No problem for beaver-inspired autonomous robot](http://www.buffalo.edu/news/releases/2018/06/017.html)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c9hNP0AxsJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
-Featured in New Atlas, Mechanical Engineering magazine, WKBW
+
 
