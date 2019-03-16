@@ -30,7 +30,7 @@ pages_list:
   Publications: '/publications/publications'
   News: '/news/news'
   Spotlight Talks: '/talks/talks'
-  Current: 'current/current'
+#   Current: 'current/current'
   
 # # # Site Author
 # # author:
