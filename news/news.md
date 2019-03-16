@@ -13,7 +13,7 @@
 
 
 ## News
-Featured in the Science article: "A review of collective robotic construction"[http://robotics.sciencemag.org/content/4/28/eaau8479]
+Featured in the Science article: ["A review of collective robotic construction](http://robotics.sciencemag.org/content/4/28/eaau8479)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VaGSX5N0ns0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
