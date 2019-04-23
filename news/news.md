@@ -35,5 +35,22 @@ Published on June 27, 2018
 [Rough terrain? No problem for beaver-inspired autonomous robot](http://www.buffalo.edu/news/releases/2018/06/017.html)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c9hNP0AxsJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
+<FORM METHOD="POST" ACTION="mailto:mairasab@buffalo.edu">
 
+<B>What is your name?: 
+</B><INPUT NAME="username" size="30"> <BR>
+
+<B>and your e-mail address: 
+</B><INPUT Name="usermail" size="30">
+<p>
+<H3>Tell me something nice:</H3>
+<CENTER>
+<TEXTAREA NAME="comment" ROWS=6 COLS=60></TEXTAREA>
+<P>
+<B>Thank you! </B>
+<BR>
+
+<INPUT TYPE=submit VALUE="Send it!">
+
+</FORM>
 
