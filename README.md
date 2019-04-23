@@ -24,3 +24,23 @@ My research interests are in autonomous systems, bio-inspired robotics, verifiab
 - PhD. Scholarship - Science without Borders - SwB/Laspau, USA, 2014-2018
 - M.S Scholarship - São Paulo Research Foundation – FAPESP, Brazil, 2009-2011
 - B.S Scholarship - National Council for Scientific and Technological Development – CNPQ, Brazil, 2006-2009
+
+
+<FORM METHOD="POST" ACTION="mailto:mairasab@buffalo.edu">
+
+<B>What is your name?: 
+</B><INPUT NAME="username" size="30"> <BR>
+
+<B>and your e-mail address: 
+</B><INPUT Name="usermail" size="30">
+<p>
+<H3>Tell me something nice:</H3>
+<CENTER>
+<TEXTAREA NAME="comment" ROWS=6 COLS=60></TEXTAREA>
+<P>
+<B>Thank you! </B>
+<BR>
+
+<INPUT TYPE=submit VALUE="Send it!">
+
+</FORM>
