@@ -11,7 +11,7 @@
 
 ## Journals
 
-- **Saboia, M.**, Thangavelu, V. and Napp, N., Autonomous Multi-Material Construction with a Heterogeneous Robot Team. Robotics & Autonomous Systems (Elsevier). Special issue: "Recent Advances in Distributed Autonomous Robotic Systems. (Under Review) 
+- **Saboia, M.**, Thangavelu, V. and Napp, N., Autonomous Multi-Material Construction with a Heterogeneous Robot Team. Robotics & Autonomous Systems (Elsevier). Special issue: "Recent Advances in Distributed Autonomous Robotic Systems, 2019. 
 - Neves, R., Mello, C.A.B., **Saboia, M.** and Bezerra, B., 2009. Thresholding the courtesy amount of brazilian bank checks based on tsallis entropy. IEEE Latin America Transactions,7(6) 
 
 
