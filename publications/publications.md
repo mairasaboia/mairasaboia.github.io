@@ -16,6 +16,9 @@
 
 
 ## Conferences
+The Pluggable Distributed Resource Allocator (PDRA): a Middleware for Distributed Computing in Mobile Robotic Networks, Federico Rossi*, Tiago Stegun Vaquero*, Marc Sanchez Net, **Maíra Saboia da Silva**, and Joshua Vander Hook. INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, (IROS 2020) (UNDER REVIEW).
+
+• THANGAVELU, V., SABOIA, M.,CHOI, J. AND NAPP, N., Autonomous Modification of Unstructured Environments with Found Material. IN 2020 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA 2020).
 
 - **Saboia, M.**, Thangavelu, V. and Napp, N., Autonomous Multi-Material Construction with a Heterogeneous Robot Team. Int. Symp. on Distributed Autonomous Robotic Systems (DARS 2018) 
 
