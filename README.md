@@ -19,7 +19,7 @@ My research interests are in autonomous systems, bio-inspired robotics, verifiab
 
 ### Scholarships & Awards
 - Team award, “Demonstrating distributed systems operation and automation on multiple science cases including Venus, Mars and the Moon. (JPL Robot Section), USA, 2020
-- RSS PIONEERS - ROBOTICS: SCIENCE AND SYSTEMS PIONEERS WORKSHOP, USA, 2020
+- ROBOTICS: SCIENCE AND SYSTEMS Pionners Worshop (RSS PIONEERS), USA, 2020
 - Finalist - Best Systems Paper Award at the Robotics Conference: Science and Systems (RSS), USA, 2018
 - PhD. Scholarship - Science without Borders - SwB/Laspau, USA, 2014-2018
 - M.S Scholarship - São Paulo Research Foundation – FAPESP, Brazil, 2009-2011
