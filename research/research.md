@@ -1,3 +1,5 @@
+
+
 <h3 class="masthead-title">
 <!-- <a href="/" title="Home">{{ site.title }}</a> -->
 <a href="/" title="Home">Home</a>
@@ -8,6 +10,9 @@
   <a href="{{ page[1]  }}">{{ page[0] }}</a>
 {% endfor %}
 </h3>
+
+
+In my dissertation, we are working on methods to perform distributed autonomous construction in unstructured environments and on the design of a heterogeneous robotic system that allows us to effectively evaluate these methods at a physical implementation level. In our application, the robots were tasked to change the environment, through deposition of irregular/deformable building material,  to turn non-navigable areas into navigable ones, allowing robots to reach otherwise inaccessible regions. This work was a finalist for the Best Systems Paper Award at the 2018 Robotics Conference: Science and Systems (RSS). My research contribution is to design construction models that can be mapped correctly to physical implementations and to leverage autonomous construction systems to operate in highly irregular environments.
 
 ## Adaptive Autonomous Modification of Unstructured Environments
 
