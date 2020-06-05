@@ -12,7 +12,7 @@
 
 
 
-Maira Saboia is a post-doctoral researcher in the Maritime and Multi-Agent Autonomy group at JPL. She completed her Ph.D in Computer Science and Engineering at University at Buffalo, State University of New York, USA. She have received her M.Sc. in Computer Scicence from the University of Campinas, Brazil and her B.Sc. in Computer Engineering from the University of Pernambuco, Brazil.
+Maira Saboia is a post-doctoral researcher in the Maritime and Multi-Agent Autonomy group at [JPL](https://scienceandtechnology.jpl.nasa.gov/maira-saboia-da-silva). She completed her Ph.D in Computer Science and Engineering at University at Buffalo, State University of New York, USA. She have received her M.Sc. in Computer Scicence from the University of Campinas, Brazil and her B.Sc. in Computer Engineering from the University of Pernambuco, Brazil.
 
 In my dissertation, we are working on methods to perform distributed autonomous construction in unstructured environments and on the design of a heterogeneous robotic system that allows us to effectively evaluate these methods at a physical implementation level. In our application, the robots were tasked to change the environment, through deposition of irregular/deformable building material,  to turn non-navigable areas into navigable ones, allowing robots to reach otherwise inaccessible regions. This work was a finalist for the Best Systems Paper Award at the 2018 Robotics Conference: Science and Systems (RSS). My research contribution is to design construction models that can be mapped correctly to physical implementations and to leverage autonomous construction systems to operate in highly irregular environments.
 
