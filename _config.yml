@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 name: "Saboia da Silva, Maíra"
-title: "Saboia da Silva, Maíra"
+title: "Maíra Saboia, PhD."
 
 
 
@@ -16,7 +16,7 @@ show_downloads: true
 # email: mairasab@buffalo.edu
 # [Curriculum Vitae](CV.pdf)
 # Short bio or description (displayed in the header)
-description: PhD, Postdoc at NASA JPL
+description: Postdoc at NASA JPL
 logo: profilepic.jpg
 # logo: beaver-robot-hi.jpg
 # Image to show in the navigation bar - image must be a square (width = height)
