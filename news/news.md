@@ -13,7 +13,9 @@
 
 
 ## News
-Featured in the Science article: ["A review of collective robotic construction](http://robotics.sciencemag.org/content/4/28/eaau8479)
+["NASA’s A-PUFFER robots](https://www.therobotreport.com/nasa-a-puffer-robot-preparing-future-moon-missions/)
+
+Featured in the Science article: ["A review of collective robotic construction"](http://robotics.sciencemag.org/content/4/28/eaau8479)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VaGSX5N0ns0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
