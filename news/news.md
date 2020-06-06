@@ -12,7 +12,7 @@
 
 
 
-## News
+## Autonmous PUFFER
 ** NASA | Game Changing Development Program **
 NASA’s Autonomous PUFFER robot: "THE COMBINATION OF SMALL, BUT CAPABLE HARDWARE WITH AUTONOMY ALLOW PUFFERS TO BE A NEW EXPLORATION TOOL ON FUTURE MISSIONS,” —Jean-Pierre de la Croix, PUFFER Project Manager 
 [gameon.nasa](https://gameon.nasa.gov/gcd/files/2020/01/Game_On_2019.pdf)
