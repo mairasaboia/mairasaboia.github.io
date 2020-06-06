@@ -13,12 +13,14 @@
 
 
 ## News
+** NASA | Game Changing Development Program **
 NASA’s Autonomous PUFFER robot: "THE COMBINATION OF SMALL, BUT CAPABLE HARDWARE WITH AUTONOMY ALLOW PUFFERS TO BE A NEW EXPLORATION TOOL ON FUTURE MISSIONS,” —Jean-Pierre de la Croix, PUFFER Project Manager 
 [gameon.nasa](https://gameon.nasa.gov/gcd/files/2020/01/Game_On_2019.pdf)
 Featured in [gameon.nasa](https://gameon.nasa.gov/2020/03/13/small-robots-practice-scouting-skills-for-future-moon-mission/)[therobotreport](https://www.therobotreport.com/nasa-a-puffer-robot-preparing-future-moon-missions/)
 
-<img src="https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16.jpg" alt="A shoebox-sized wheeled robot explores the rugged terrain on the surface of the Mars Yard at NASA's Jet Propulsion Laboratory during recent tests of the Autonomous Pop-Up Flat Folding Explorer Robot (A-PUFFER) project. Credit: NASA/JPL Caltech" width="900" height="350" class="size-full wp-image-18179" srcset="https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16.jpg 1400w, https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16-300x169.jpg 300w, https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16-768x432.jpg 768w, https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16-1024x576.jpg 1024w" sizes="(max-width: 100px) 70vw, 100px">
+<img src="https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16.jpg" alt="A shoebox-sized wheeled robot explores the rugged terrain on the surface of the Mars Yard at NASA's Jet Propulsion Laboratory during recent tests of the Autonomous Pop-Up Flat Folding Explorer Robot (A-PUFFER) project. Credit: NASA/JPL Caltech" width="1000" height="350" class="size-full wp-image-18179" srcset="https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16.jpg 1400w, https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16-300x169.jpg 300w, https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16-768x432.jpg 768w, https://gameon.nasa.gov/files/2020/03/A-PUFFER-MAIN-16-1024x576.jpg 1024w" sizes="(max-width: 100px) 70vw, 100px">
 
+# Autonomous Construction
 Featured in the Science article: ["A review of collective robotic construction"](http://robotics.sciencemag.org/content/4/28/eaau8479)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VaGSX5N0ns0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
