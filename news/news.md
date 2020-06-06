@@ -13,7 +13,7 @@
 
 
 ## News
-NASA’s Autonomous PUFFER robot: THE COMBINATION OF SMALL, BUT CAPABLE HARDWARE WITH AUTONOMY ALLOW PUFFERS TO BE A NEW EXPLORATION TOOL ON FUTURE MISSIONS,” —Jean-Pierre de la Croix, PUFFER Project Manager 
+NASA’s Autonomous PUFFER robot: "THE COMBINATION OF SMALL, BUT CAPABLE HARDWARE WITH AUTONOMY ALLOW PUFFERS TO BE A NEW EXPLORATION TOOL ON FUTURE MISSIONS,” —Jean-Pierre de la Croix, PUFFER Project Manager 
 [gameon.nasa](https://gameon.nasa.gov/gcd/files/2020/01/Game_On_2019.pdf)
 Featured in [gameon.nasa](https://gameon.nasa.gov/2020/03/13/small-robots-practice-scouting-skills-for-future-moon-mission/)[therobotreport](https://www.therobotreport.com/nasa-a-puffer-robot-preparing-future-moon-missions/)
 
