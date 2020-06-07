@@ -30,6 +30,7 @@ pages_list:
   Publications: '/publications/publications'
   News: '/news/news'
   Talks: '/talks/talks'
+  Ta: '/ta/ta'
   Resources: '/resources/resources'
 #   Current: 'current/current'
   
