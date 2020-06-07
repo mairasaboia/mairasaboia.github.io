@@ -31,7 +31,7 @@ pages_list:
   News: '/news/news'
   Talks: '/talks/talks'
   Others: '/others/others'
-  Resources: '/resources/resources'
+#   Resources: '/resources/resources'
 #   Current: 'current/current'
   
 # # # Site Author
