@@ -29,7 +29,7 @@ pages_list:
   Research: '/research/research'
   Publications: '/publications/publications'
   News: '/news/news'
-  Spotlight Talks: '/talks/talks'
+  Talks: '/talks/talks'
   Resources: '/resources/resources'
 #   Current: 'current/current'
   
