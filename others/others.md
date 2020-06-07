@@ -1,6 +1,6 @@
 # Interesting Talks
 # Interesting Papers
-## Recommenced:
+## Recommended:
 ## To read:
 [Papers to read]('/to_read/papers.md')
 # Interesting Topics
