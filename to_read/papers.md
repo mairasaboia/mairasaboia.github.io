@@ -6,8 +6,13 @@
 
 ### How to write a talk abstract:
 [ ] http://users.ece.cmu.edu/~koopman/essays/abstract.html
+
 [ ] https://www.aises.org/sites/default/files/documents/National%20Conference/Abstract%20Guidelines%20and%20Samples.pdf
+
 [ ] http://crosstalk.cell.com/blog/how-to-hook-an-audience-with-a-great-abstract
+
 [ ] https://www.citizenscience.org/events/conferences/abstract-guidelines/
+
 [ ] https://medium.com/@dormaindrewitz/how-to-write-an-abstract-for-your-conference-talk-or-webinar-66ae959be2e6
+
 [ ] https://www.exordo.com/blog/how-to-write-an-abstract-for-a-conference/
