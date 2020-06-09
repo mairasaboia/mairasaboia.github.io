@@ -7,8 +7,8 @@
 
 [Asynchronous and Parallel Distributed Pose Graph Optimization, Yulun Tian1, Alec Koppel2, Amrit Singh Bedi2 , and Jonathan P. How1, 2020](https://arxiv.org/pdf/2003.03281.pdf)
 
-<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-<label for="vehicle1"> I have a bike</label><br>
+<input type="checkbox" id="p1" name="p1" value="Bike">
+<label for="p1"> [Asynchronous and Parallel Distributed Pose Graph Optimization, Yulun Tian1, Alec Koppel2, Amrit Singh Bedi2 , and Jonathan P. How1, 2020](https://arxiv.org/pdf/2003.03281.pdf)</label><br>
 
 ### How to write a talk abstract:
 [ ] http://users.ece.cmu.edu/~koopman/essays/abstract.html
