@@ -1,3 +1,22 @@
+function myFunction() {
+  // Get the checkbox
+  var checkBox = document.getElementById("myCheck");
+  // Get the output text
+  var text = document.getElementById("text");
+
+  // If the checkbox is checked, display the output text
+  if (checkBox.checked == true){
+    text.style.display = "block";
+  } else {
+    text.style.display = "none";
+  }
+}
+
+Checkbox: <input type="checkbox" id="myCheck" onclick="myFunction()">
+
+<p id="text" style="display:none">Checkbox is CHECKED!</p>
+
+
 ### Papers on multi-robot systems
 [ ] Distributed Intelligence: Overview of the Field and its Application in Multi-Robot Systems (Lynne E. Parker, 2007) [(source)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.8558&rep=rep1&type=pdf)
 
