@@ -14,6 +14,10 @@
 
 <!---In my dissertation, we are working on methods to perform distributed autonomous construction in unstructured environments and on the design of a heterogeneous robotic system that allows us to effectively evaluate these methods at a physical implementation level. In our application, the robots were tasked to change the environment, through deposition of irregular/deformable building material,  to turn non-navigable areas into navigable ones, allowing robots to reach otherwise inaccessible regions. This work was a finalist for the Best Systems Paper Award at the 2018 Robotics Conference: Science and Systems (RSS). My research contribution is to design construction models that can be mapped correctly to physical implementations and to leverage autonomous construction systems to operate in highly irregular environments.-->
 
+## Autonomous Modification of Unstructured Environments using Found Material (ICRA 2020)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gj1E9dZ6Cs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Adaptive Autonomous Modification of Unstructured Environments
 
 Proposed methods to perform autonomous construction in irregular terrain and designed a heterogeneous robotic system that allows effective evaluation of these methods at a physical implementation level. The heterogeneous robotic team is composed of two autonomous robots that are able to manipulate material of different physical properties (rigid and amorphous materials)
