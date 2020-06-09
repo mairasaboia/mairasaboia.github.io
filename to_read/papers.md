@@ -3,6 +3,12 @@
 
 [ ] Multirobot Systems: A Classification Focused on Coordination Alessandro Farinelli, Luca Iocchi, and Daniele Nardi, Member, 2004 [(source)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1335496&casa_token=UV64yKJHx4AAAAAA:Bb_D1laQdphRLEjuvO2xoQDGV3sskowmYP6NiJIvWm-WuP5uEP6i0r_PswD09ix0LGBzNZbk5vI&tag=1)
 
+#### Distributed Mapping
+
+[Asynchronous and Parallel Distributed Pose Graph Optimization, Yulun Tian1, Alec Koppel2, Amrit Singh Bedi2 , and Jonathan P. How1, 2020](https://arxiv.org/pdf/2003.03281.pdf)
+
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+<label for="vehicle1"> I have a bike</label><br>
 
 ### How to write a talk abstract:
 [ ] http://users.ece.cmu.edu/~koopman/essays/abstract.html
