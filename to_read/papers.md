@@ -1,21 +1,3 @@
-function myFunction() {
-  // Get the checkbox
-  var checkBox = document.getElementById("myCheck");
-  // Get the output text
-  var text = document.getElementById("text");
-
-  // If the checkbox is checked, display the output text
-  if (checkBox.checked == true){
-    text.style.display = "block";
-  } else {
-    text.style.display = "none";
-  }
-}
-
-Checkbox: <input type="checkbox" id="myCheck" onclick="myFunction()">
-
-<p id="text" style="display:none">Checkbox is CHECKED!</p>
-
 
 ### Papers on multi-robot systems
 [ ] Distributed Intelligence: Overview of the Field and its Application in Multi-Robot Systems (Lynne E. Parker, 2007) [(source)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.8558&rep=rep1&type=pdf)
@@ -24,10 +6,8 @@ Checkbox: <input type="checkbox" id="myCheck" onclick="myFunction()">
 
 #### Distributed Mapping
 
-[Asynchronous and Parallel Distributed Pose Graph Optimization, Yulun Tian1, Alec Koppel2, Amrit Singh Bedi2 , and Jonathan P. How1, 2020](https://arxiv.org/pdf/2003.03281.pdf)
-
 <input type="checkbox" id="p1" name="p1" value="Bike" checked>
-<label for="p1"> [Asynchronous and Parallel Distributed Pose Graph Optimization, Yulun Tian1, Alec Koppel2, Amrit Singh Bedi2 , and Jonathan P. How1, 2020](https://arxiv.org/pdf/2003.03281.pdf)</label><br>
+<label for="p1"> Asynchronous and Parallel Distributed Pose Graph Optimization, Yulun Tian1, Alec Koppel2, Amrit Singh Bedi2 , and Jonathan P. How1, 2020[source](https://arxiv.org/pdf/2003.03281.pdf)</label><br>
 
 ### How to write a talk abstract:
 [ ] http://users.ece.cmu.edu/~koopman/essays/abstract.html
