@@ -46,3 +46,7 @@ We use the notion of  _navigability_ to enable a robot to modify its environment
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7tjbrfLna8A?start=11" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
+
+### Dry Stacking for Automated Construction with Irregular Objects
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-w3ckcKtzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
