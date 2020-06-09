@@ -7,7 +7,12 @@
 #### Distributed Mapping
 
 <input type="checkbox" id="p1" name="p1" value="Bike" checked>
-<label for="p1"> Asynchronous and Parallel Distributed Pose Graph Optimization, Yulun Tian1, Alec Koppel2, Amrit Singh Bedi2 , and Jonathan P. How1, 2020[source](https://arxiv.org/pdf/2003.03281.pdf)</label><br>
+<label for="p1"> Asynchronous and Parallel Distributed Pose Graph Optimization, Yulun Tian1, Alec Koppel2, Amrit Singh Bedi2 , and Jonathan P. How1, 2020[(source)](https://arxiv.org/pdf/2003.03281.pdf)</label><br>
+
+<input type="checkbox" id="p2" name="p2" value="Bike" checked>
+<label for="p2"> Semantic Localization System for Robots at Large Indoor Environments Based on Environmental Stimuli, Fco-Javier Serrano †,, Vidal Moreno , Belén Curto  and Raul Álves , 2020[source](https://arxiv.org/pdf/2003.03281.pdf)</label><br>
+
+
 
 ### How to write a talk abstract:
 [ ] http://users.ece.cmu.edu/~koopman/essays/abstract.html
