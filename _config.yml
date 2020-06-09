@@ -31,7 +31,7 @@ pages_list:
   Publications: '/publications/publications'
   News: '/news/news'
   Talks: '/talks/talks'
-  Others: '/others/others'
+  #Others: '/others/others'
 #   Resources: '/resources/resources'
 #   Current: 'current/current'
   
