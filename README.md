@@ -17,7 +17,7 @@ Maira Saboia is a post-doctoral researcher in the Maritime and Multi-Agent Auton
 
 My research interests are in autonomous systems, bio-inspired robotics, verifiable methods, collective robotics, swarm, robotic-vision, multi-robot systems, distributed robotics systems, autonomous construction, navigation, task and path planning. I have experience in developing theoretical frameworks, high-level system designs and working with system implementations.
 
-#### For cool videos of the some of research project I have been envolved, check the Youtube [channel](https://www.youtube.com/user/Amarelinda).
+#### For more videos about research projects I have been envolved, check the Youtube [channel](https://www.youtube.com/user/Amarelinda).
 
 
 ### Scholarships & Awards
