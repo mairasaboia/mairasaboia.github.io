@@ -1,3 +1,5 @@
+### COSTAR
+
 
 ### Papers on multi-robot systems
 [ ] Distributed Intelligence: Overview of the Field and its Application in Multi-Robot Systems (Lynne E. Parker, 2007) [(source)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.8558&rep=rep1&type=pdf)
@@ -5,7 +7,7 @@
 [ ] Multirobot Systems: A Classification Focused on Coordination Alessandro Farinelli, Luca Iocchi, and Daniele Nardi, Member, 2004 [(source)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1335496&casa_token=UV64yKJHx4AAAAAA:Bb_D1laQdphRLEjuvO2xoQDGV3sskowmYP6NiJIvWm-WuP5uEP6i0r_PswD09ix0LGBzNZbk5vI&tag=1)
 
 #### Distributed Mapping
-
+[ ] Geospatial Computer Vision Based on Multi-Modal Data—How Valuable Is Shape Information for the Extraction of Semantic Information?[(source)](https://www.mdpi.com/2072-4292/10/1/2/htm)
 <input type="checkbox" id="p1" name="p1" value="Bike" checked>
 <label for="p1"> Asynchronous and Parallel Distributed Pose Graph Optimization, Yulun Tian1, Alec Koppel2, Amrit Singh Bedi2 , and Jonathan P. How1, 2020[(source)](https://arxiv.org/pdf/2003.03281.pdf)</label><br>
 
