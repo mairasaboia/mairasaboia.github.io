@@ -5,6 +5,10 @@ Keywords:multi-agent sharing, collaborative mapping
 
 
 ### Papers on multi-robot systems
+
+[ ] A Survey and Analysis of Cooperative Multi-Agent Robot Systems: Challenges and Directions [(source)](https://www.intechopen.com/books/applications-of-mobile-robots/a-survey-and-analysis-of-cooperative-multi-agent-robot-systems-challenges-and-directions)
+
+
 [ ] Distributed Intelligence: Overview of the Field and its Application in Multi-Robot Systems (Lynne E. Parker, 2007) [(source)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.8558&rep=rep1&type=pdf)
 
 [ ] Multirobot Systems: A Classification Focused on Coordination Alessandro Farinelli, Luca Iocchi, and Daniele Nardi, Member, 2004 [(source)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1335496&casa_token=UV64yKJHx4AAAAAA:Bb_D1laQdphRLEjuvO2xoQDGV3sskowmYP6NiJIvWm-WuP5uEP6i0r_PswD09ix0LGBzNZbk5vI&tag=1)
@@ -26,6 +30,10 @@ Keywords:multi-agent sharing, collaborative mapping
 
 ##### Farming 
 [ ] Practical Ideas for Farming on the Moon and Mars[(source)](https://www.universetoday.com/146304/practical-ideas-for-farming-on-the-moon-and-mars/)
+
+### Other tools:
+## Docker:
+ROSLab: Sharing ROS Code Interactively With Docker and JupyterLab [(source)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8762218)
 
 ### How to write a talk abstract:
 [ ] http://users.ece.cmu.edu/~koopman/essays/abstract.html
