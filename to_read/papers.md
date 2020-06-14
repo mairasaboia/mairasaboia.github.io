@@ -1,5 +1,8 @@
 ### COSTAR
 
+## MAPDB
+Keywords:multi-agent sharing, collaborative mapping
+
 
 ### Papers on multi-robot systems
 [ ] Distributed Intelligence: Overview of the Field and its Application in Multi-Robot Systems (Lynne E. Parker, 2007) [(source)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.8558&rep=rep1&type=pdf)
