@@ -1,5 +1,7 @@
 ### COSTAR
 
+[ ]System overview: https://www.youtube.com/watch?v=NYiFr9F4ogo
+
 ## MAPDB
 Keywords:multi-agent sharing, collaborative mapping
 
