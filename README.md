@@ -12,7 +12,7 @@
 
 
 
-Maira Saboia is a post-doctoral researcher at Vale Institute of Technology ([ITV](http://www.itv.org/en/), and she was a post-doctoral researcher at [JPL](https://www.jpl.nasa.gov/). She completed her Ph.D in Computer Science and Engineering at University at Buffalo, State University of New York, USA. She has received her M.Sc. in Computer Scicence from the University of Campinas, Brazil and her B.Sc. in Computer Engineering from the University of Pernambuco, Brazil.
+Maira Saboia is a post-doctoral researcher at Vale Institute of Technology ([ITV](http://www.itv.org/en/)), and she was a post-doctoral researcher at NASA Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)). She completed her Ph.D in Computer Science and Engineering at University at Buffalo, State University of New York, USA. She has received her M.Sc. in Computer Scicence from the University of Campinas, Brazil and her B.Sc. in Computer Engineering from the University of Pernambuco, Brazil.
 
 
 My research interests are in autonomous systems, bio-inspired robotics, verifiable methods, collective robotics, swarm, robotic-vision, multi-robot systems, distributed robotics systems, autonomous construction, navigation, task and path planning. I have experience in developing theoretical frameworks, high-level system designs and working with system implementations.
